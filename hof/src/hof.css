@@ -1,0 +1,11 @@
+.display-box{
+    border: 2px solid black;
+    color: blue;
+    width: 50%;
+}
+span{
+    padding: 20px;
+}
+ul{
+    list-style-type: none;
+}
